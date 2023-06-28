@@ -146,7 +146,7 @@ Please refer to the [documentation](https://ppoffice.github.io/hexo-theme-icarus
 
 ## :tada: Contribute
 
-If you feel like to help us build a better Icarus, you can
+If you feel like to help us build a better Icarus, you can do
 
 :black_nib: [Submit a tutorial](https://github.com/ppoffice/hexo-theme-icarus/new/site/source/_posts) |
 :earth_asia: [Add a translation](https://github.com/ppoffice/hexo-theme-icarus/tree/master/languages) |
